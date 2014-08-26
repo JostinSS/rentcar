@@ -14,6 +14,7 @@ public class Sistema {
 		admin.setLocationRelativeTo(null);
 		admin.setVisible(true);
 		System.out.println("Cambio");
+		//Hola
 	/*	MantenimientoClientes m = new MantenimientoClientes();
 		m.setLocationRelativeTo(null);
 		m.setVisible(true);
